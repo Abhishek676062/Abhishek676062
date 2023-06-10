@@ -10,12 +10,12 @@
 
 - 🔭 I’m currently working on case studies on Netflix, Amazon, Quora, Facebook, Microsoft.
 - 🌱 I’m proficient in creating machine learning model using Python and its different libraries.
-- 📗 I’m currently learning Deep Learning and Django.
-- 💬 My interests lies in Data scince, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
+- 📗 I’m currently learning AWS, Deep Learning and Django.
+- 💬 My interests lies in Data scince, Data analytics, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
 - ✨ I’m looking to collaborate on Machine Learning 
 - 📫 How to reach me: shbhishek055@gmail.com 
 - 🌐 Find my portfolio at https://abhishek-sharma-portfolio.super.site/
-- 👀 Find my resume at http://bit.ly/3FjigiC
+- 👀 Find my resume at https://bit.ly/abhishek-sharma-resume
 - 😄 Pronouns: He/his/him
 - ⚡ Interesting fact: I follow vegan🍃 lifestyle. 
 
