@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek676062&label=Views&color=blue&style=plastic" abhishek676062" /> </p>
 
 [![Twitter](https://img.shields.io/twitter/follow/MR_ABHISHEK_55?style=social)](https://twitter.com/MR_ABHISHEK_55)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhisharmaigec/)](https://www.linkedin.com/in/abhisharmaigec/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-sharma-rgpv/)](https://www.linkedin.com/in/abhishek-sharma-rgpv/)
 
 
 
