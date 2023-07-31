@@ -14,7 +14,7 @@
 - 💬 My interests lies in Data scince, Data analytics, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
 - ✨ I’m looking to collaborate on Machine Learning 
 - 📫 How to reach me: shbhishek055@gmail.com 
-- 🌐 Find my portfolio at https://abhishek-sharma-portfolio.super.site/
+- 🌐 Find my portfolio at https://abhishek-ai.netlify.app
 - 👀 Find my resume at https://bit.ly/abhishek-sharma-resume
 - 😄 Pronouns: He/his/him
 - ⚡ Interesting fact: I follow vegan🍃 lifestyle. 
