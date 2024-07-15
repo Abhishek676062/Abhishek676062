@@ -8,14 +8,14 @@
 
 
 
-- 🔭 I’m currently working on case studies on Netflix, Amazon, Quora, Facebook, Microsoft.
-- 🌱 I’m proficient in creating machine learning model using Python and its different libraries.
-- 📗 I’m currently learning AWS, Deep Learning and Django.
-- 💬 My interests lies in Data scince, Data analytics, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
-- ✨ I’m looking to collaborate on Machine Learning 
+- 🔭 I’m currently working on GenerativeAI and MLops projects.
+- 🌱 I’m proficient in creating machine learning  and LLM model using Python and its different libraries.
+- 📗 I’m currently learning AWS, MLops, Advance Langchain.
+- 💬 My interests lies in Data scince, Data analytics,AI, GenerativeAI,MLops, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
+- ✨ I’m looking to collaborate on Machine Learning, GenerativeAI projects.
 - 📫 How to reach me: shbhishek055@gmail.com 
 - 🌐 Find my portfolio at https://abhishek-ai.netlify.app
-- 👀 Find my resume at https://bit.ly/abhishek-sharma-resume
+- 👀 Find my resume at https://drive.google.com/file/d/1YYz4eB5cOBbdHpZWALV1_lv220-UdyNS/view?usp=sharing
 - 😄 Pronouns: He/his/him
 - ⚡ Interesting fact: I follow vegan🍃 lifestyle. 
 
