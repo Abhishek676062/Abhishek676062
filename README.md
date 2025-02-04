@@ -8,11 +8,11 @@
 
 
 
-- 🔭 I’m currently working on GenerativeAI and MLops projects.
-- 🌱 I’m proficient in creating machine learning  and LLM model using Python and its different libraries.
-- 📗 I’m currently learning AWS, MLops, Advance Langchain.
-- 💬 My interests lies in Data scince, Data analytics,AI, GenerativeAI,MLops, Machine learning, Django, Deep learning, Computer vision, Artificial Intelligence.
-- ✨ I’m looking to collaborate on Machine Learning, GenerativeAI projects.
+- 🔭 I’m currently working on GenerativeAI, Langchain and MLops projects.
+- 🌱 I’m proficient in creating GenerativeAI, AI/ML and LLM model using Python and its different libraries.
+- 📗 I’m currently learning Agentic AI, MLops, Advance Langchain.
+- 💬 My interests lies in GenerativeAI, LLMs, AI/ML, SOftware development.
+- ✨ I’m looking to collaborate on AI/ML, LLM, GenerativeAI projects.
 - 📫 How to reach me: shbhishek055@gmail.com 
 - 🌐 Find my portfolio at https://abhishek-ai.netlify.app
 - 👀 Find my resume at https://drive.google.com/file/d/1YYz4eB5cOBbdHpZWALV1_lv220-UdyNS/view?usp=sharing
