@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on GenerativeAI, AgenticAI, Fine-tuning.
 - 🌱 I’m proficient in creating GenerativeAI, AgenticAI, RAG, Fune-tuning, and custom software application using its different libraries.
-- 📗 I’m currently learning Agentic AI, MLops, System Design, Custom AI Agents, MCP.
+- 📗 I’m currently learning Agentic AI, MLops, System Design, Custom AI Agents, MCP, Prompt Engineering.
 - 💬 My interests lies in AgenticAI, GenerativeAI, LLMs, AI/ML, Software Development.
 - ✨ I’m looking to collaborate on AI/ML, LLM, GenerativeAI , AgenticAI Application.
 - 📫 How to reach me: shbhishek055@gmail.com 
