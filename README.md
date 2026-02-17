@@ -3,19 +3,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek676062&label=Views&color=blue&style=plastic" abhishek676062" /> </p>
 
 [![Twitter](https://img.shields.io/twitter/follow/MR_ABHISHEK_55?style=social)](https://twitter.com/MR_ABHISHEK_55)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-sharma-rgpv/)](https://www.linkedin.com/in/abhishek-sharma-rgpv/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-ai/)](https://www.linkedin.com/in/abhi-ai/)
 
 
 
 
-- 🔭 I’m currently working on GenerativeAI, Langchain and MLops projects.
-- 🌱 I’m proficient in creating GenerativeAI, AI/ML and LLM model using Python and its different libraries.
-- 📗 I’m currently learning Agentic AI, MLops, Advance Langchain.
-- 💬 My interests lies in GenerativeAI, LLMs, AI/ML, SOftware development.
-- ✨ I’m looking to collaborate on AI/ML, LLM, GenerativeAI projects.
+- 🔭 I’m currently working on GenerativeAI, AgenticAI, Fine-tuning.
+- 🌱 I’m proficient in creating GenerativeAI, AgenticAI, RAG, Fune-tuning, and custom software application using its different libraries.
+- 📗 I’m currently learning Agentic AI, MLops, System Design, Custom AI Agents, MCP.
+- 💬 My interests lies in AgenticAI, GenerativeAI, LLMs, AI/ML, Software Development.
+- ✨ I’m looking to collaborate on AI/ML, LLM, GenerativeAI , AgenticAI Application.
 - 📫 How to reach me: shbhishek055@gmail.com 
-- 🌐 Find my portfolio at https://abhishek-ai.netlify.app
-- 👀 Find my resume at https://drive.google.com/file/d/1YYz4eB5cOBbdHpZWALV1_lv220-UdyNS/view?usp=sharing
+- 🌐 Find my portfolio at https://abhiai.tech
+- 👀 Find my resume at https://drive.google.com/file/d/1o-bsoNINORa-hfeAaqE0XEHYIDiHSi6W/view?usp=sharing
 - 😄 Pronouns: He/his/him
 - ⚡ Interesting fact: I follow vegan🍃 lifestyle. 
 
