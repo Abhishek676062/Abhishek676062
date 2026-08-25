@@ -306,21 +306,6 @@ Designed and shipped production GenAI and computer vision systems, and migrated 
 
 ---
 
-## 💻 Coding Profiles
-
-<!-- Update the usernames below with your actual profile handles -->
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Abhishek676062)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Abhishek676062)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Abhishek676062)
-[![CodeChef](https://img.shields.io/badge/CodeChef-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Abhishek676062)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -329,75 +314,15 @@ Designed and shipped production GenAI and computer vision systems, and migrated 
 
 </div>
 
-> This one needs a one-time setup — see **Contribution Snake setup** below. It will 404 until the workflow runs once.
-
 ---
 
-<details>
-<summary><b>⚙️ Self-hosting these widgets (fixes broken images permanently)</b></summary>
-<br/>
-
-The public demo instances above are shared by everyone on GitHub and get rate-limited or paused during high traffic. For a card that never breaks, deploy your own free copy on Vercel:
-
-1. Fork the relevant repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy), or [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).
-2. Go to [vercel.com](https://vercel.com), sign in with GitHub, and import your fork as a new project — no config needed.
-3. In the Vercel project settings, add an environment variable `PAT_1` with a [GitHub personal access token](https://github.com/settings/tokens) (`public_repo` scope is enough).
-4. Deploy. Vercel gives you a URL like `your-project-name.vercel.app`.
-5. Swap `github-readme-stats.vercel.app` (etc.) in this README for your own domain — same query parameters, just your own dedicated instance with its own rate limit.
-
-If you'd rather not set this up right now, a quick stopgap for trophies is swapping in a community-run mirror, e.g. `https://github-profile-trophy-liard-delta.vercel.app/?username=Abhishek676062` — reliability isn't guaranteed since it's someone else's free instance too, but it's an alternative while the main one is down.
-
-</details>
-
-<details>
-<summary><b>🐍 Contribution Snake setup (required — the image is empty until you do this)</b></summary>
-<br/>
-
-The snake SVG isn't generated automatically — it needs a GitHub Action that runs on a schedule and commits the output to an `output` branch. In your **profile repo** (`Abhishek676062/Abhishek676062`), add this file at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Commit it, then run it once manually from the **Actions** tab (`Generate Snake` → `Run workflow`). After it finishes, the `output` branch will exist with the SVG, and the image in this README will render.
-
-</details>
-
----
 
 ## 🎯 Current Focus
 
 ```yaml
 current_focus:
   learning:
+    - Advanced Fine Tuning
     - System Design & Distributed Architecture
     - Advanced Agentic Patterns (Supervisor, Handoff, Tool-Use)
     - MLOps at Scale
